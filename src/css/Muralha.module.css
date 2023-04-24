@@ -1,0 +1,17 @@
+.boxmuralhaimg{
+    width: 100%;
+    height: 600px;
+    background-image: url(../imagens/Muralha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.boxtexto{
+    width: 30%;
+    height: 250px;
+    background-color: #ffffff65;
+    float: right;
+    margin-top: 50px;
+    margin-right: 60px;
+    border-radius: 10px;
+
+}

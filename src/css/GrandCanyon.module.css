@@ -1,0 +1,17 @@
+.boxgrandimg{
+    width: 100%;
+    height: 600px;
+    background-image: url(../imagens/GrandCanyon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.boxtexto{
+    width: 30%;
+    height: 250px;
+    background-color: #ffffff65;
+    float: right;
+    margin-top: 50px;
+    margin-right: 60px;
+    border-radius: 10px;
+
+}
